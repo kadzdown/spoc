@@ -2,6 +2,11 @@
 
 **Open Concept — Public Domain**  
 **@kadzdown** | First Published - November 2025
+**License:** Open Concept Release – Public Domain  
+This document is shared openly for scientific and engineering inspiration.
+No patent or ownership claim is asserted. Attribution appreciated but not required.
+
+Repository serves as a timestamped public disclosure (defensive publication).
 
 > **10 ps gates • <1 fJ/bit • 10¹² density • All in light**
 
