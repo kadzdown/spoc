@@ -1,7 +1,7 @@
 # SPOC: Universal Optical Computer in Stacked Polymers
 
 **Open Concept — Public Domain**  
-**@kadzdown** | November 2025
+**@kadzdown** | First Published - November 2025
 
 > **10 ps gates • <1 fJ/bit • 10¹² density • All in light**
 
