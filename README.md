@@ -12,7 +12,7 @@ Repository serves as a timestamped public disclosure (defensive publication).
 
 ---
 
-## 📄 Full Blueprint (4 PDFs)
+## 📄 Concept Papers (4 PDFs)
 
 - [SPOC-v1: Stacked Architecture](SPOC-v1_Main_Paper.pdf)
 - [SPOC-v2: Photonic Bit Storage](SPOC-v2_Storage_Supplement.pdf)
